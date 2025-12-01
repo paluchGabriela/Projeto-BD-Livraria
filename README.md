@@ -8,9 +8,6 @@ O projeto foi dividido em duas etapas (A2.1 e A2.2), contemplando desde o modelo
 
 O Modelo Lógico Relacional da livraria apresenta as entidades, atributos e relacionamentos do sistema conforme os requisitos da Avaliação A2.
 
-**O diagrama completo está disponível em:**  
-`/docs/ProjetoLogico`
-
 ## Script SQL
 
 O arquivo SQL contém:
@@ -20,9 +17,6 @@ O arquivo SQL contém:
 - Inserção de dados (DML)  
 - 10 necessidades negociais com SELECT, UPDATE e DELETE  
 - Consultas com JOIN e GROUP BY  
-
-**Script completo:**  
-`/sql/LivrariaSonhadores.sql`
 
 ---
 
