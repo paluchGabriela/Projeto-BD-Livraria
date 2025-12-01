@@ -2,6 +2,8 @@
 
 Repositório do projeto acadêmico de Banco de Dados da **Universidade Positivo**. Este projeto apresenta a modelagem e implementação do banco de dados da livraria fictícia **“Sonhadores”**, incluindo documentação, DER, scripts SQL e necessidades negociais.
 
+---
+
 O projeto foi dividido em duas etapas (A2.1 e A2.2), contemplando desde o modelo lógico até o desenvolvimento do script SQL.
 
 ## Modelo Lógico (DER)
