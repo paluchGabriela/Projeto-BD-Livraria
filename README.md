@@ -30,8 +30,4 @@ O arquivo SQL contém:
 **Evandro Zatti**  
 Disciplina: Banco de Dados
 
-
-
 ---
-
-Feito com dedicação pela equipe da **Livraria Sonhadores** ✨📚
